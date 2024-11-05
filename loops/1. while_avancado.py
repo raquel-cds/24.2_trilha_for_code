@@ -9,7 +9,7 @@ while True:
         break # estrutura de quebra'''
     c += 1
     if c == 4:
-        continue
+        continue # interromper apenas a iteração atual
 
     elif c > 10:
         break
