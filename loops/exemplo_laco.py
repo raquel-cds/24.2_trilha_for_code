@@ -1,3 +1,4 @@
+# FAZENDO UM CRONÔMETRO 
 import os # importando biblioteca que interage com o sistema operacional
 import time # biblioteca temporal 
 
