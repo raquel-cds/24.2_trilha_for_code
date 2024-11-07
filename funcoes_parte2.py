@@ -1,3 +1,5 @@
+# INCOMPLETO - EM ANDAMENTO
+
 import os
 import time
 
@@ -28,6 +30,10 @@ def duas_casas_decimais(segundos, minutos, horas):
         segundos = f'0{str(horas)}'
 
     return segundos, minutos, horas
+
+def mostra_horas(segundos, minutos, horas):
+    
+
 
 def roda_relogio():
     segundos, minutos, horas = inicializa_valores()
